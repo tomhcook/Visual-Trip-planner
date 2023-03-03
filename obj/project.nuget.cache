@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "32r0N1x3jpHBLlWli4rDSWiZxFZyVpfcZ/1oKnNcjEH6PKt0aJ7kzgFzskTxzqgMeEzwloG/ubGbvL4ei15u/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tom\\Downloads\\Space-Warp-Example-Mod-Template-main(1) - Copy\\Space-Warp-Example-Mod-Template-main\\VisualTripPlannerProject\\VisualTripPlanner.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tom\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Tom\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
